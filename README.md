@@ -28,14 +28,11 @@ Hi, I'm **Hasitha Sandaruwan Silva**, a passionate **Full-stack Developer** from
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 Coding Activity & Metrics:
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hasitha-Sandaruwan-Silva&theme=tokyonight&no-bg=true&margin-w=15" alt="Hasitha-Sandaruwan-Silva" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=tokyonight&area=true&hide_border=true&custom_title=Weekly%20Contribution%20Stats" width="100%" />
 </p>
 
----
-
-### 📊 GitHub Analytics:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hasitha-Sandaruwan-Silva&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&text_color=ffffff" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Sandaruwan-Silva&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=ffffff&hide=html,css" />
@@ -43,9 +40,9 @@ Hi, I'm **Hasitha Sandaruwan Silva**, a passionate **Full-stack Developer** from
 
 ---
 
-### 📈 GitHub Activity:
+### 🏆 Achievements
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hasitha-Sandaruwan-Silva&theme=tokyonight&no-bg=true&margin-w=15" alt="Hasitha-Sandaruwan-Silva" /></a>
 </p>
 
 ---
