@@ -1,31 +1,40 @@
 # 💫 About Me:
-Hi, I'm **Hasitha Sandaruwan Silva**, a passionate **Full-stack Developer** from Sri Lanka. I specialize in building robust backends with **Python** and dynamic frontend logic.
+Hi, I'm **Hasitha Sandaruwan Silva**, a passionate **Full-stack Developer** from Sri Lanka. I specialize in building robust backends and interactive frontends.
 
 - 🔭 **Backend Focus:** Currently developing high-performance **Python Backend** systems [cite: 2026-02-12].
-- ⚙️ **Frontend Strategy:** I focus on modularity in **app.js**, ensuring new features are added without removing existing logic [cite: 2026-02-19].
+- ⚙️ **Frontend Strategy:** Expert in **React** and modular **app.js** logic, focusing on feature expansion without code deletion [cite: 2026-02-19].
 - 🌱 **Learning Path:** Diving deeper into **Scalable APIs** and Cloud-native architectures.
-- 💬 **Ask me about:** Python, JavaScript, and Backend architecture.
+- 💬 **Ask me about:** Python, JavaScript, React, and Backend architecture.
 
 ---
 
 ### 💻 Tech Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,flask,django,html,css,postgres,mongodb,git,vscode,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,flask,django,html,css,postgres,mongodb,git,vscode,docker,aws" />
 </p>
 
 ---
 
 ### 📊 GitHub Analytics:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hasitha-Sandaruwan-Silva&show_icons=true&theme=transparent&hide_border=true&title_color=00d1b2&icon_color=00d1b2&text_color=ffffff" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Sandaruwan-Silva&layout=compact&theme=transparent&hide_border=true&title_color=00d1b2&text_color=ffffff&hide=html,css" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hasitha-Sandaruwan-Silva&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&text_color=ffffff" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Sandaruwan-Silva&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=ffffff&hide=html,css" />
+</p>
+
+---
+
+### 🐍 Contribution Snake:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hasitha-Sandaruwan-Silva&theme=tokyonight&hide_border=true" width="100%" />
+  <br>
+  <img src="https://raw.githubusercontent.com/Hasitha-Sandaruwan-Silva/Hasitha-Sandaruwan-Silva/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
 ### 📈 GitHub Activity:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
