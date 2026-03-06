@@ -1,58 +1,97 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=200&section=header&text=Hasitha%20Sandaruwan&fontSize=70&animation=fadeIn&fontAlignY=35" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=220&section=header&text=Hasitha%20Sandaruwan%20Silva&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+
 </div>
 
-## 💫 About Me:
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Hasitha-Sandaruwan-Silva&label=Profile%20views&color=0e75b6&style=flat" alt="Hasitha-Sandaruwan-Silva" />
-</p>
+# 👋 Hello World! I'm Hasitha Sandaruwan Silva
 
-Hi, I'm **Hasitha Sandaruwan Silva**, a passionate **Full-stack Developer** from Sri Lanka. I specialize in building robust backends and interactive frontends.
-
-- 🔭 **Backend Development:** Currently building systems with **Python** [cite: 2026-02-12].
-- ⚙️ **Frontend Logic:** Managing complex functionality in **app.js** and **React**, ensuring code is only added, never removed, for maximum stability [cite: 2026-02-19].
-- 🌱 **Learning Path:** Expanding knowledge in **Scalable APIs** and Full-stack architecture.
-- 💬 **Ask me about:** Python, JavaScript, and React.
+💻 **Full-Stack Developer** from **Sri Lanka 🇱🇰**  
+Passionate about building **scalable systems, modern web apps, and powerful backends.**
 
 ---
 
-### 🚀 Technologies & Languages:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,mysql,sqlite,flask,django" />
-</p>
+## 🚀 About Me
 
-### 🛠️ Developer Tools:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman,npm,vercel" />
-</p>
+- 🔭 Currently working with **Python backend development**
+- ⚡ Building dynamic **React frontends**
+- 🧠 Interested in **Scalable System Architecture**
+- 🌱 Learning **Advanced API Design & Cloud-ready applications**
+- 💬 Ask me about **Python, JavaScript, React, APIs**
 
 ---
 
-### 📊 Coding Activity & Metrics:
+# 🧠 Tech Stack
+
+### 💻 Languages
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=tokyonight&area=true&hide_border=true&custom_title=Weekly%20Contribution%20Stats" width="100%" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,sqlite" />
 </p>
 
+### ⚙️ Frameworks & Libraries
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hasitha-Sandaruwan-Silva&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&text_color=ffffff" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Sandaruwan-Silva&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=ffffff&hide=html,css" />
+<img src="https://skillicons.dev/icons?i=react,flask,django,nodejs" />
 </p>
 
----
-
-### 🏆 Achievements
+### 🛠 Developer Tools
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hasitha-Sandaruwan-Silva&theme=tokyonight&no-bg=true&margin-w=15" alt="Hasitha-Sandaruwan-Silva" /></a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman,npm,vercel" />
 </p>
 
 ---
 
-### 🤝 Connect with me:
+# 📊 GitHub Analytics
+
 <p align="center">
-  <a href="https://linkedin.com/in/hasitha-sandaruwan-a5a68b374"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hsandaruwan39@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hasitha-Sandaruwan-Silva&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Sandaruwan-Silva&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hasitha-Sandaruwan-Silva&theme=tokyonight&no-bg=true&margin-w=15&row=1"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/hasitha-sandaruwan-a5a68b374">
+<img src="https://img.shields.io/badge/LinkedIn-Hasitha%20Sandaruwan-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:hsandaruwan39@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=100&section=footer" />
+
+✨ *"Code. Create. Innovate."* ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=120&section=footer"/>
+
 </div>
