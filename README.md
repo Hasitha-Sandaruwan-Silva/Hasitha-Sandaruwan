@@ -184,4 +184,4 @@ tools    : VS Code, NetBeans, Cursor AI, Postman, MySQL Workbench
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 </div>
 
-menn mee detailsma dala full perfect animate krla okkoma hdala denna
+
