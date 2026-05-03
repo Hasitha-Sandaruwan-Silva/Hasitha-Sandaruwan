@@ -40,6 +40,8 @@
   <img src="https://img.shields.io/github/stars/Hasitha-Sandaruwan-Silva?label=Stars&style=flat-square&color=302b63"/>
 </div>
 
+<br/>
+
 I am a passionate Full Stack Developer with hands-on experience building real-world multi-role web and desktop applications. I enjoy designing scalable systems with clean architecture and continuously sharpening my technical skills.
 
 ---
@@ -56,10 +58,7 @@ I am a passionate Full Stack Developer with hands-on experience building real-wo
 - ⚡ Fun fact: **I build systems with multiple user roles — hotels, pharmacies, cafes**
 - 📫 Contact me via **hsandaruwan39@gmail.com**
 
-<br/>
-<br/>
-<br/>
-<br/>
+<br/><br/><br/><br/><br/>
 
 ---
 
@@ -75,67 +74,119 @@ I am a passionate Full Stack Developer with hands-on experience building real-wo
 
 <br/>
 
+<div align="center">
+
 ### 🏨 Mahameruwa Leisure Hotel Management System
-> *The most complex project — a real-world multi-role hotel platform*
 
-| Area | Details |
-|------|---------|
-| **Backend** | Python · Django REST Framework · MySQL |
-| **Staff Portal** | Next.js 14 (TypeScript) · Role-based routing |
-| **Customer Frontend** | React.js · Sinhala language support |
-| **Auth** | OTP-based login · JWT tokens · Role-based access control |
-| **Roles** | Manager · Waiter · Receptionist · Barman · Accountant |
-| **Features** | Inventory · Attendance & performance · Finance reports (CSV) · Guest history · REST APIs |
+![Django](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
-<br/>
+> 🏆 *Most complex project — a real-world multi-role hotel platform with Sinhala language support*
+
+```
+👥 Roles     →  Manager · Waiter · Receptionist · Barman · Accountant
+🔐 Auth      →  OTP-based login · JWT tokens · Role-based access control
+📦 Features  →  Inventory · Attendance · Finance reports (CSV) · Guest history
+🌐 Frontend  →  Next.js 14 Staff Portal + React.js Customer Frontend
+```
+
+</div>
+
+---
+
+<div align="center">
 
 ### ☕ Cafe Management System
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 > *Order and data management system for a cafe*
 
-| Area | Details |
-|------|---------|
-| **Tech** | Python · Django · MySQL |
-| **Features** | Menu management · Order tracking · Billing · Stock control |
+```
+📋 Features  →  Menu management · Order tracking · Billing · Stock control
+```
 
-<br/>
+</div>
+
+---
+
+<div align="center">
 
 ### 💻 Computer Shop Inventory System
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 > *Desktop app for managing a computer store's stock*
 
-| Area | Details |
-|------|---------|
-| **Tech** | Java · Swing GUI · MySQL |
-| **Features** | Product inventory · Sales tracking · Full CRUD operations |
+```
+📋 Features  →  Product inventory · Sales tracking · Full CRUD operations
+🖥️ Tech      →  Java Swing GUI · MySQL
+```
 
-<br/>
+</div>
+
+---
+
+<div align="center">
 
 ### 📈 Crypto Portfolio System
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 > *Track and manage cryptocurrency portfolios*
 
-| Area | Details |
-|------|---------|
-| **Tech** | Java · Maven · MySQL · MVC Architecture |
-| **Features** | Portfolio tracking · Crypto data management · Transaction history |
+```
+📋 Features  →  Portfolio tracking · Crypto data management · Transaction history
+🏗️ Pattern   →  MVC Architecture · Maven build
+```
 
-<br/>
+</div>
+
+---
+
+<div align="center">
 
 ### 💊 Pharmacy Management System
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF%2FXAML-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
 > *Full-featured pharmacy desktop application*
 
-| Area | Details |
-|------|---------|
-| **Tech** | C# · WPF · XAML · Microsoft SQL Server |
-| **Features** | Medicine inventory tracking · Sales reporting · CRUD operations |
+```
+📋 Features  →  Medicine inventory tracking · Sales reporting · CRUD operations
+🖥️ Tech      →  C# · WPF · XAML · Microsoft SQL Server
+```
 
-<br/>
+</div>
+
+---
+
+<div align="center">
 
 ### 🌐 PHP & JavaScript Web Projects
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 > *Interactive web utilities*
 
-| Area | Details |
-|------|---------|
-| **Tech** | PHP · JavaScript · HTML · CSS |
-| **Features** | Discount calculators · Area calculators · Interactive UI components |
+```
+📋 Features  →  Discount calculators · Area calculators · Interactive UI components
+```
+
+</div>
 
 ---
 
