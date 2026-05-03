@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Hasitha%20Sandaruwan%20Silva&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descSize=20&descAlignY=62&descColor=c3b8ff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:0a0a2e,60:1a0533,100:0d0221&height=300&section=header&text=Hasitha%20Sandaruwan%20Silva&fontSize=50&fontColor=00ffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descSize=18&descAlignY=62&descColor=ff00ff&stroke=00ffff&strokeWidth=2"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="coding gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" alt="cyberpunk coding gif"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=700&color=9B7FFF&center=true&vCenter=true&width=700&lines=Building+full-stack+web+applications+%F0%9F%8C%90;Crafting+desktop+software+with+Java+%26+C%23+%F0%9F%96%A5%EF%B8%8F;Django+REST+%2B+Next.js+%2B+React+developer+%E2%9A%A1;Designing+multi-role+real-world+systems+%F0%9F%8F%97%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=600&color=00FFFF&center=true&vCenter=true&width=700&lines=%E2%96%BA+Building+full-stack+web+applications;%E2%96%BA+Crafting+desktop+apps+with+Java+%26+C%23;%E2%96%BA+Django+REST+%2B+Next.js+%2B+React+developer;%E2%96%BA+Designing+multi-role+real-world+systems;%E2%96%BA+Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -25,44 +25,51 @@
     <img src="https://img.shields.io/badge/Gmail-hsandaruwan39%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/HasithaSandaruwan">
-    <img src="https://img.shields.io/badge/GitHub-HasithaSandaruwan-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Hasitha-Sandaruwan-Silva">
+    <img src="https://img.shields.io/badge/GitHub-Hasitha--Sandaruwan--Silva-181717?style=for-the-badge&logo=github&logoColor=00ffff"/>
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HasithaSandaruwan&label=Profile+Views&color=9B7FFF&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Hasitha-Sandaruwan-Silva&label=Profile+Views&color=00ffff&style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/HasithaSandaruwan?label=Followers&style=flat-square&color=302b63" />
+  <img src="https://img.shields.io/github/followers/Hasitha-Sandaruwan-Silva?label=Followers&style=flat-square&color=ff00ff"/>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/HasithaSandaruwan?label=Stars&style=flat-square&color=302b63" />
+  <img src="https://img.shields.io/github/stars/Hasitha-Sandaruwan-Silva?label=Stars&style=flat-square&color=00ffff"/>
 </div>
 
 <br/>
 
 ---
 
-## 🧑‍💻 About Me
+## ⚡ About Me
 
 ```yaml
-name     : Hasitha Sandaruwan Silva
-location : Kurunegala, Sri Lanka 🇱🇰
-focus    : Full-Stack Web + Desktop Application Development
-learning : System design, REST APIs, clean architecture
-tools    : VS Code, NetBeans, Cursor AI, Postman, MySQL Workbench
-interests: Multi-role systems · Hotel platforms · MVC architecture
+╔══════════════════════════════════════════════════════════╗
+  name     : Hasitha Sandaruwan Silva
+  location : Kurunegala, Sri Lanka 🇱🇰
+  focus    : Full-Stack Web + Desktop Application Development
+  learning : System design, REST APIs, clean architecture
+  tools    : VS Code, NetBeans, Cursor AI, Postman, MySQL Workbench
+  interests: Multi-role systems · Hotel platforms · MVC architecture
+╚══════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-- 🏗️ I build **full-stack systems** — from REST APIs to complete frontends
-- 🖥️ I also develop **desktop applications** using Java (Swing) and C# (WPF/XAML)
-- 🔐 I implement **role-based auth systems** with OTP login and JWT
-- 🤝 I love working with **multi-role, real-world systems** (hotels, pharmacies, inventory)
-- 📦 I follow **MVC patterns** and clean code principles
-- 🌐 I build with **Sinhala language support** for local platforms
+<div align="center">
+
+| ⚡ | I build **full-stack systems** — REST APIs to complete frontends |
+|:---:|:---|
+| 🖥️ | Desktop apps using **Java (Swing)** and **C# (WPF/XAML)** |
+| 🔐 | **Role-based auth** — OTP login, JWT, multi-role routing |
+| 🏗️ | Real-world systems — hotels, pharmacies, cafes, inventory |
+| 📦 | **MVC architecture** and clean code principles |
+| 🌐 | Sinhala language support for local Sri Lankan platforms |
+
+</div>
 
 ---
 
@@ -70,8 +77,14 @@ interests: Multi-role systems · Hotel platforms · MVC architecture
 
 <br/>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
+</div>
+
+<br/>
+
 ### 🏨 Mahameruwa Leisure Hotel Management System
-> *The most complex and complete project — a real-world multi-role hotel platform*
+> *The most complex project — a real-world multi-role hotel platform*
 
 | Area | Details |
 |------|---------|
@@ -80,7 +93,7 @@ interests: Multi-role systems · Hotel platforms · MVC architecture
 | **Customer Frontend** | React.js · Sinhala language support |
 | **Auth** | OTP-based login · JWT tokens · Role-based access control |
 | **Roles** | Manager · Waiter · Receptionist · Barman · Accountant |
-| **Features** | Inventory management · Staff attendance & performance · Finance reports (CSV export) · Guest history · Full REST APIs |
+| **Features** | Inventory · Attendance & performance · Finance reports (CSV) · Guest history · REST APIs |
 
 <br/>
 
@@ -109,8 +122,7 @@ interests: Multi-role systems · Hotel platforms · MVC architecture
 
 | Area | Details |
 |------|---------|
-| **Tech** | Java · Maven · MySQL |
-| **Pattern** | MVC Architecture |
+| **Tech** | Java · Maven · MySQL · MVC Architecture |
 | **Features** | Portfolio tracking · Crypto data management · Transaction history |
 
 <br/>
@@ -177,7 +189,6 @@ interests: Multi-role systems · Hotel platforms · MVC architecture
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
   <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
   <img src="https://skillicons.dev/icons?i=maven" title="Maven"/>
-  <img src="https://skillicons.dev/icons?i=netlify" title="Netlify"/>
 </p>
 
 ---
@@ -187,15 +198,15 @@ interests: Multi-role systems · Hotel platforms · MVC architecture
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HasithaSandaruwan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=c3b8ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hasitha-Sandaruwan-Silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=00ffff&icon_color=ff00ff&text_color=00ffff"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasithaSandaruwan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9B7FFF&text_color=c3b8ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Sandaruwan-Silva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=00ffff&text_color=00ffff"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasithaSandaruwan&theme=tokyonight&hide_border=true&background=0d1117&ring=9B7FFF&fire=9B7FFF&currStreakLabel=9B7FFF&sideLabels=c3b8ff&dates=888899"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasitha-Sandaruwan-Silva&theme=tokyonight&hide_border=true&background=0d0221&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=ff00ff&dates=888899"/>
 </div>
 
 ---
@@ -203,7 +214,7 @@ interests: Multi-role systems · Hotel platforms · MVC architecture
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HasithaSandaruwan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hasitha-Sandaruwan-Silva&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 </div>
 
 ---
@@ -211,7 +222,7 @@ interests: Multi-role systems · Hotel platforms · MVC architecture
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasithaSandaruwan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=9B7FFF&line=9B7FFF&point=ffffff&area=true&area_color=302b63"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=tokyo-night&hide_border=true&bg_color=0d0221&color=00ffff&line=ff00ff&point=ffffff&area=true&area_color=1a0533"/>
 </div>
 
 ---
@@ -219,7 +230,7 @@ interests: Multi-role systems · Hotel platforms · MVC architecture
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Hasitha-Sandaruwan-Silva/Hasitha-Sandaruwan-Silva/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
 ---
@@ -237,8 +248,8 @@ interests: Multi-role systems · Hotel platforms · MVC architecture
     <img src="https://img.shields.io/badge/Gmail-hsandaruwan39%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/HasithaSandaruwan">
-    <img src="https://img.shields.io/badge/GitHub-HasithaSandaruwan-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Hasitha-Sandaruwan-Silva">
+    <img src="https://img.shields.io/badge/GitHub-Hasitha--Sandaruwan--Silva-181717?style=for-the-badge&logo=github&logoColor=00ffff"/>
   </a>
 </div>
 
@@ -247,11 +258,11 @@ interests: Multi-role systems · Hotel platforms · MVC architecture
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HasithaSandaruwan&label=Profile+Views&color=9B7FFF&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Hasitha-Sandaruwan-Silva&label=Profile+Views&color=00ffff&style=flat" alt="profile views" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0533,100:0a0a2e&height=140&section=footer"/>
 </div>
