@@ -5,6 +5,12 @@
 <br/>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="coding gif"/>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=700&color=9B7FFF&center=true&vCenter=true&width=700&lines=Building+full-stack+web+applications+%F0%9F%8C%90;Crafting+desktop+software+with+Java+%26+C%23+%F0%9F%96%A5%EF%B8%8F;Django+REST+%2B+Next.js+%2B+React+developer+%E2%9A%A1;Designing+multi-role+real-world+systems+%F0%9F%8F%97%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
