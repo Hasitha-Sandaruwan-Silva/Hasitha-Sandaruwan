@@ -1,17 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Hasitha%20Sandaruwan%20Silva&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descSize=18&descAlignY=62&descColor=c3b8ff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1040,60:302b63,100:24243e&height=300&section=header&text=Hasitha%20Sandaruwan%20Silva&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20NIBM%20Software%20Engineering%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descSize=16&descAlignY=58&descColor=9B7FFF"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420" alt="coding gif"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=700&color=9B7FFF&center=true&vCenter=true&width=750&lines=Building+full-stack+web+applications+%F0%9F%8C%90;Django+REST+%2B+Next.js+%2B+React+developer+%E2%9A%A1;Crafting+desktop+apps+with+Java+%26+C%23+%F0%9F%96%A5%EF%B8%8F;AI-powered+mobile+apps+with+Flutter+%2B+Gemini+%F0%9F%A4%96;Designing+multi-role+real-world+systems+%F0%9F%8F%97%EF%B8%8F;NIBM+Software+Engineering+Student+%F0%9F%8E%93;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2600&pause=800&color=9B7FFF&center=true&vCenter=true&width=750&lines=Building+Mahameruwa+Hotel+Management+System+%F0%9F%8F%A8;Django+REST+%2B+Next.js+14+%2B+React+Developer+%E2%9A%A1;AI-powered+Flutter+%2B+Google+Gemini+Apps+%F0%9F%A4%96;Multi-role+Auth+%7C+OTP+%7C+JWT+%7C+RBAC+%F0%9F%94%90;Java+%26+C%23+Desktop+Application+Builder+%F0%9F%96%A5%EF%B8%8F;NIBM+Software+Engineering+Student+%F0%9F%8E%93;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG"/>
+  </a>
 </div>
 
 <br/>
@@ -26,7 +22,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/Hasitha-Sandaruwan-Silva">
-    <img src="https://img.shields.io/badge/GitHub-Hasitha-Sandaruwan-Silva-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Hasitha--Sandaruwan--Silva-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
@@ -42,25 +38,37 @@
 
 <br/>
 
-I am a passionate Full Stack Developer and Software Engineering student at NIBM, with hands-on experience building real-world multi-role web, desktop, and mobile applications. I enjoy designing scalable systems with clean architecture and continuously sharpening my technical skills.
-
 ---
 
 ## About Me 🧑‍💻
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="320" alt="developer desk gif"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" alt="coding gif"/>
 
-- 🎓 **Software Engineering Student** @ NIBM, Sri Lanka
-- 🏨 Currently building **Mahameruwa** — a full multi-role hotel management platform
-- 🤖 Built an **AI-powered Flutter app** using Google Gemini 2.0 Flash for person detection
-- 🌱 Currently learning **system design, REST APIs & clean architecture**
-- 👯 Open to collaborate on **full-stack and open source projects**
-- 🖥️ Also build **desktop applications** with Java (Swing) and C# (WPF/XAML)
-- 🔐 I implement **role-based auth** — OTP login, JWT, multi-role routing
-- ⚡ Fun fact: **I build systems with multiple user roles — hotels, pharmacies, cafes**
-- 📫 Reach me at **hsandaruwan39@gmail.com**
+```python
+class HasithaSandaruwan:
 
-<br/><br/><br/><br/>
+    name     = "Hasitha Sandaruwan Silva"
+    role     = "Full-Stack Developer"
+    edu      = "NIBM Software Engineering"
+    location = "Sri Lanka 🇱🇰"
+
+    currently_building = [
+        "Mahameruwa Hotel System",
+        "AI Flutter App (Gemini 2.0)"
+    ]
+
+    stack = {
+        "backend":   ["Python", "Django REST", "Java", "C#", "PHP"],
+        "frontend":  ["Next.js 14", "React", "TypeScript", "Tailwind"],
+        "mobile":    ["Flutter"],
+        "databases": ["MySQL", "MSSQL", "SQLite"],
+        "tools":     ["Git", "Postman", "Maven", "Android Studio"]
+    }
+
+    open_to = ["collaborations", "open source", "internships"]
+```
+
+<br clear="right"/>
 
 ---
 
@@ -68,16 +76,20 @@ I am a passionate Full Stack Developer and Software Engineering student at NIBM,
 
 <br/>
 
-### 🌐 Frontend
+**🌐 Frontend**
+
 [![Frontend](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,flutter&perline=8)](https://skillicons.dev)
 
-### ⚙️ Backend
+**⚙️ Backend**
+
 [![Backend](https://skillicons.dev/icons?i=python,django,php,java,cs&perline=8)](https://skillicons.dev)
 
-### 🗄️ Databases
+**🗄️ Databases**
+
 [![Databases](https://skillicons.dev/icons?i=mysql,sqlite,mssql&perline=8)](https://skillicons.dev)
 
-### 🔧 Tools & Platforms
+**🔧 Tools & Platforms**
+
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,maven,androidstudio&perline=8)](https://skillicons.dev)
 
 ---
@@ -86,164 +98,127 @@ I am a passionate Full Stack Developer and Software Engineering student at NIBM,
 
 <br/>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🏨 Mahameruwa Leisure Hotel Management System
-
-<div align="center">
-
+### 🏨 Mahameruwa Hotel System
 ![Django](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
-> 🏆 *Most complex project — a real-world multi-role hotel platform with Sinhala language support*
+> 🏆 Real-world multi-role hotel platform with Sinhala language support
 
 ```
-👥 Roles      →  Manager · Waiter · Receptionist · Barman · Accountant · Chef
-🔐 Auth       →  OTP-based login · JWT tokens · Role-based access control
-📦 Features   →  Inventory · Attendance · Finance reports (CSV) · Guest history
-🌐 Frontend   →  Next.js 14 Staff Portal + React.js Customer Frontend
-🔌 API Docs   →  drf-spectacular OpenAPI schema · Postman ready
+👥 Roles    → Manager · Waiter · Receptionist
+             Barman · Accountant · Chef
+🔐 Auth     → OTP login · JWT · RBAC
+📦 Features → Inventory · Attendance
+             Finance CSV · Guest history
+🌐 Stack    → Next.js 14 + React + Django
 ```
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/Hasitha-Sandaruwan-Silva/mahameruwa)
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasitha-Sandaruwan-Silva/mahameruwa)
+</td>
+<td width="50%" valign="top">
 
-</div>
-
----
-
-### 🤖 Text Behind Person — AI Mobile App
-
-<div align="center">
-
+### 🤖 Text Behind Person — AI App
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_2.0-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-> *AI-powered mobile app that places text behind a detected person in an image*
+> AI-powered mobile app — places text behind a detected person in a photo
 
 ```
-🤖 AI         →  Google Gemini 2.0 Flash for person segmentation & detection
-📱 Mobile     →  Flutter cross-platform app (Android)
-⚡ Backend    →  FastAPI Python server for image processing
-🎨 Feature    →  Creative text-behind-person photo effect
+🤖 AI      → Google Gemini 2.0 Flash
+             Person segmentation
+📱 Mobile  → Flutter (Android)
+⚡ Backend → FastAPI image processing
+🎨 Effect  → Creative text-behind-person
 ```
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/Hasitha-Sandaruwan-Silva/text-behind-person)
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasitha-Sandaruwan-Silva/text-behind-person)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-</div>
-
----
-
-### 🌸 GLOW Beauty — E-Commerce Store
-
-<div align="center">
-
+### 🌸 GLOW Beauty — E-Commerce
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-> *Full-featured beauty e-commerce store built on XAMPP*
+> Full-featured beauty e-commerce store built on XAMPP
 
 ```
-🛒 Features   →  Product catalog · Wishlist · Quick-view modal · Product detail page
-🎨 UI         →  Per-category color theming · WhatsApp integration · Color variants
-🔧 Admin      →  Full CRUD product management · Image upload
-💾 Database   →  MySQL (glowbeauty_db) via XAMPP
+🛒 Features → Wishlist · Quick-view modal
+              Color variants · WhatsApp
+🎨 UI       → Per-category color theming
+🔧 Admin    → Full CRUD · Image upload
 ```
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/Hasitha-Sandaruwan-Silva/glow-beauty)
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasitha-Sandaruwan-Silva/glow-beauty)
-
-</div>
-
----
+</td>
+<td width="50%" valign="top">
 
 ### ☕ Cafe Management System
-
-<div align="center">
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
-> *Desktop-based order and billing management system for a cafe*
+> Desktop-based order and billing management for a cafe
 
 ```
-📋 Features   →  Menu management · Order tracking · Billing · Stock control
-🏗️ Pattern    →  MVC Architecture · Maven build (com.cafe.*)
-🖥️ Tech       →  Java Swing GUI · MySQL Connector 8.0.33
+📋 Features → Menu · Orders · Billing
+              Stock control
+🏗️ Pattern  → MVC · Maven (com.cafe.*)
+🖥️ Tech     → Java Swing · MySQL 8.0.33
 ```
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/Hasitha-Sandaruwan-Silva/cafe-management)
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasitha-Sandaruwan-Silva/cafe-management)
-
-</div>
-
----
-
-### 💻 Computer Shop Inventory System
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-> *Desktop app for managing a computer store's stock and sales*
-
-```
-📋 Features   →  Product inventory · Sales tracking · Full CRUD operations
-🖥️ Tech       →  Java Swing GUI · MySQL
-```
-
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasitha-Sandaruwan-Silva/computer-shop-inventory)
-
-</div>
-
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📈 Crypto Portfolio System
-
-<div align="center">
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-> *Track and manage cryptocurrency portfolios*
+> Track and manage cryptocurrency portfolios
 
 ```
-📋 Features   →  Portfolio tracking · Crypto data management · Transaction history
-🏗️ Pattern    →  MVC Architecture · Maven build
+📋 Features → Portfolio tracking
+              Transaction history
+🏗️ Pattern  → MVC Architecture · Maven
 ```
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/Hasitha-Sandaruwan-Silva/crypto-portfolio)
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasitha-Sandaruwan-Silva/crypto-portfolio)
-
-</div>
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 💊 Pharmacy Management System
-
-<div align="center">
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF%2FXAML-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-> *Full-featured pharmacy desktop application*
+> Full-featured pharmacy desktop application
 
 ```
-📋 Features   →  Medicine inventory tracking · Sales reporting · CRUD operations
-🖥️ Tech       →  C# · WPF · XAML · Microsoft SQL Server
+📋 Features → Medicine inventory
+              Sales reporting · CRUD
+🖥️ Tech     → C# · WPF · XAML
+              Microsoft SQL Server
 ```
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/Hasitha-Sandaruwan-Silva/pharmacy-management)
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasitha-Sandaruwan-Silva/pharmacy-management)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -284,13 +259,17 @@ I am a passionate Full Stack Developer and Software Engineering student at NIBM,
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hasitha-Sandaruwan-Silva/Hasitha-Sandaruwan-Silva/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hasitha-Sandaruwan-Silva/Hasitha-Sandaruwan-Silva/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hasitha-Sandaruwan-Silva/Hasitha-Sandaruwan-Silva/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hasitha-Sandaruwan-Silva/Hasitha-Sandaruwan-Silva/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hasitha-Sandaruwan-Silva&label=Profile+Views&color=9B7FFF&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Hasitha-Sandaruwan-Silva&label=Profile+Views&color=9B7FFF&style=flat" alt="profile views"/>
 </div>
 
 <br/>
