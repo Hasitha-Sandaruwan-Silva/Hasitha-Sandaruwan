@@ -25,19 +25,19 @@
     <img src="https://img.shields.io/badge/Gmail-hsandaruwan39%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/HasithaSandaruwan">
-    <img src="https://img.shields.io/badge/GitHub-HasithaSandaruwan-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Hasitha-Sandaruwan-Silva">
+    <img src="https://img.shields.io/badge/GitHub-Hasitha-Sandaruwan-Silva-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HasithaSandaruwan&label=Profile+Views&color=9B7FFF&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=Hasitha-Sandaruwan-Silva&label=Profile+Views&color=9B7FFF&style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/HasithaSandaruwan?label=Followers&style=flat-square&color=302b63"/>
+  <img src="https://img.shields.io/github/followers/Hasitha-Sandaruwan-Silva?label=Followers&style=flat-square&color=302b63"/>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/HasithaSandaruwan?label=Stars&style=flat-square&color=302b63"/>
+  <img src="https://img.shields.io/github/stars/Hasitha-Sandaruwan-Silva?label=Stars&style=flat-square&color=302b63"/>
 </div>
 
 <br/>
@@ -108,7 +108,7 @@ I am a passionate Full Stack Developer and Software Engineering student at NIBM,
 🔌 API Docs   →  drf-spectacular OpenAPI schema · Postman ready
 ```
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HasithaSandaruwan/mahameruwa)
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasitha-Sandaruwan-Silva/mahameruwa)
 
 </div>
 
@@ -132,7 +132,7 @@ I am a passionate Full Stack Developer and Software Engineering student at NIBM,
 🎨 Feature    →  Creative text-behind-person photo effect
 ```
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HasithaSandaruwan/text-behind-person)
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasitha-Sandaruwan-Silva/text-behind-person)
 
 </div>
 
@@ -157,7 +157,7 @@ I am a passionate Full Stack Developer and Software Engineering student at NIBM,
 💾 Database   →  MySQL (glowbeauty_db) via XAMPP
 ```
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HasithaSandaruwan/glow-beauty)
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasitha-Sandaruwan-Silva/glow-beauty)
 
 </div>
 
@@ -179,7 +179,7 @@ I am a passionate Full Stack Developer and Software Engineering student at NIBM,
 🖥️ Tech       →  Java Swing GUI · MySQL Connector 8.0.33
 ```
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HasithaSandaruwan/cafe-management)
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasitha-Sandaruwan-Silva/cafe-management)
 
 </div>
 
@@ -199,7 +199,7 @@ I am a passionate Full Stack Developer and Software Engineering student at NIBM,
 🖥️ Tech       →  Java Swing GUI · MySQL
 ```
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HasithaSandaruwan/computer-shop-inventory)
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasitha-Sandaruwan-Silva/computer-shop-inventory)
 
 </div>
 
@@ -220,7 +220,7 @@ I am a passionate Full Stack Developer and Software Engineering student at NIBM,
 🏗️ Pattern    →  MVC Architecture · Maven build
 ```
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HasithaSandaruwan/crypto-portfolio)
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasitha-Sandaruwan-Silva/crypto-portfolio)
 
 </div>
 
@@ -241,7 +241,7 @@ I am a passionate Full Stack Developer and Software Engineering student at NIBM,
 🖥️ Tech       →  C# · WPF · XAML · Microsoft SQL Server
 ```
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HasithaSandaruwan/pharmacy-management)
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasitha-Sandaruwan-Silva/pharmacy-management)
 
 </div>
 
@@ -252,15 +252,15 @@ I am a passionate Full Stack Developer and Software Engineering student at NIBM,
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HasithaSandaruwan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=c3b8ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hasitha-Sandaruwan-Silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=c3b8ff"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasithaSandaruwan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9B7FFF&text_color=c3b8ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Sandaruwan-Silva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9B7FFF&text_color=c3b8ff"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasithaSandaruwan&theme=tokyonight&hide_border=true&background=0d1117&ring=9B7FFF&fire=9B7FFF&currStreakLabel=9B7FFF&sideLabels=c3b8ff&dates=888899"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasitha-Sandaruwan-Silva&theme=tokyonight&hide_border=true&background=0d1117&ring=9B7FFF&fire=9B7FFF&currStreakLabel=9B7FFF&sideLabels=c3b8ff&dates=888899"/>
 </div>
 
 ---
@@ -268,7 +268,7 @@ I am a passionate Full Stack Developer and Software Engineering student at NIBM,
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HasithaSandaruwan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hasitha-Sandaruwan-Silva&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 </div>
 
 ---
@@ -276,7 +276,7 @@ I am a passionate Full Stack Developer and Software Engineering student at NIBM,
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasithaSandaruwan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=9B7FFF&line=9B7FFF&point=ffffff&area=true&area_color=302b63"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=9B7FFF&line=9B7FFF&point=ffffff&area=true&area_color=302b63"/>
 </div>
 
 ---
@@ -284,13 +284,13 @@ I am a passionate Full Stack Developer and Software Engineering student at NIBM,
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HasithaSandaruwan/HasithaSandaruwan/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Hasitha-Sandaruwan-Silva/Hasitha-Sandaruwan-Silva/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HasithaSandaruwan&label=Profile+Views&color=9B7FFF&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Hasitha-Sandaruwan-Silva&label=Profile+Views&color=9B7FFF&style=flat" alt="profile views" />
 </div>
 
 <br/>
